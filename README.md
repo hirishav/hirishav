@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **das.rishavdas2005@gmail.com** For Collaboration/Project o
 - 🌱 **I’m currently learning:** C++
 - 👯 **I’m looking to collaborate on:** Coming soon
 - 🤔 **I’m looking for help with:** Not yet done :)
-- 💬 **Ask me about:** Java and Python
+- 💬 **Ask me about:** Coding and Life Lessons
 - 📫 **How to reach me:** das.rishavdas2005@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I Love Technology and Business
@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **das.rishavdas2005@gmail.com** For Collaboration/Project o
 
 I am a happy genuine soul, who loves to code and explore the darkness.
 
-[![My YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/phrenic2005) [![My Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/phrenic_rishav) [![My Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/phrenic_rishav) [![My Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/phrenic_rishav)
+[![My YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/phrenic2005) [![My Instagram](https://img.shields.io/badge/Instagram-Rishav%20Das-pink?logo=instagram&logoColor=white)](https://www.instagram.com/phrenic_rishav) [![My Facebook](https://img.shields.io/badge/Facebook-Rishav%20Das-blue?logo=facebook&logoColor=white)](https://www.facebook.com/phrenic_rishav) [![My Twitter](https://img.shields.io/badge/Twitter-Rishav%20Das-lightblue?logo=twitter&logoColor=white)](https://twitter.com/phrenic_rishav)
 
 [![](https://visitcount.itsvg.in/api?id=hirishav&icon=1&color=4)](https://visitcount.itsvg.in)
 
